@@ -1,4 +1,4 @@
-### Hi there 👋 Meu nome é Lidiani
+### Bem vindo ao meu perfil :* 👋 Meu nome é Lidiani
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.
 ![](link)
 
