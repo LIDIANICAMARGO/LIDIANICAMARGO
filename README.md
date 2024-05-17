@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 Meu nome é Lidiani
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.
+![](link)
+
+
 
 <!--
 **LIDIANICAMARGO/LIDIANICAMARGO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
